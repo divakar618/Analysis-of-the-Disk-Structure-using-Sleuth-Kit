@@ -30,12 +30,14 @@ mkfs.vfat disk.dd
 ```
 
 ## OUTPUT:
+<img width="592" height="465" alt="Screenshot 2025-09-15 003621" src="https://github.com/user-attachments/assets/0f83b6b9-b593-48c2-84ec-e0995cdcd99c" />
 
-![Screenshot 2025-04-22 085615](https://github.com/user-attachments/assets/48ad4510-e6d3-42cc-a6f7-a5453af7e6a9)
 
 ### Create Disk
 
-![image](https://github.com/user-attachments/assets/486b446a-0c92-4841-a095-3980000c3fc8)
+<img width="562" height="452" alt="Screenshot 2025-09-15 003629" src="https://github.com/user-attachments/assets/f2471613-d3cf-4c4c-bcbd-e44ec9518775" />
+
+
 ### mmls 
 ```bash
 mmls disk.dd
@@ -44,14 +46,9 @@ mmls disk.dd
 ```bash
 fls -f fat -o 0 disk.dd
 ```
-![image](https://github.com/user-attachments/assets/85967a1e-38ab-4281-aa16-820b2cfa7479)
+<img width="562" height="452" alt="Screenshot 2025-09-15 003629" src="https://github.com/user-attachments/assets/d0f6dc1e-ac3d-410a-94fd-ddc145b74b8a" />
 
-![image](https://github.com/user-attachments/assets/36499cfc-15f3-4b86-8023-7876a2d5df25)
-
-
-![image](https://github.com/user-attachments/assets/1972eea0-f2aa-471e-8cc7-83e1279f38eb)
-
-![image](https://github.com/user-attachments/assets/2f3834c6-b0da-45d9-a207-c1afc7937b3c)
+<img width="558" height="450" alt="Screenshot 2025-09-15 003639" src="https://github.com/user-attachments/assets/cbf8f179-b17c-4c6d-a45a-c72c7b88e298" />
 
 ## RESULT:
 The analysis was performed successfully using Sleuth Kit, and the disk structure was understood in detail.
